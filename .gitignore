@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+database/*.db
+faces/*
+!faces/.gitkeep
+
+models/*
+!models/.gitkeep
+
+.env
+*.xlsx
+.vscode/
